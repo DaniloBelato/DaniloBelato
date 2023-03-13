@@ -6,6 +6,10 @@
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](?)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/danilobelato)
 
+<div style="float:right; margin-left:10px;">
+<img align="right" alt="My website gif" src="https://i.imgur.com/UZTT8F2.png" width="180px"/>
+</div>
+
 ### 📝 More About Me:
 
 - 🎒 &nbsp; I'm a student of Information Systems at Unis-MG,brazil.
