@@ -8,20 +8,18 @@
 
 
 ### 📝 More About Me:
+- 🎓 **I'm a student of Information Systems** at Unis-MG, Brazil, and I’m passionate about **backend development** with **Java** and **Spring Boot**.  
+- ☁️ Currently, I'm diving deep into **cloud technologies** with **AWS** and containerization using **Docker**.  
+- 🚀 I am committed to **continuous learning**, focusing on improving my skills in **Java**, **Spring Boot**, and **cloud infrastructure technologies**.
+- 🤝 I’m open to contributing to **open-source projects** and collaborating with the **developer community** on **GitHub**.  
 
-- 🎒 &nbsp; I'm a student of Information Systems at Unis-MG,brazil.
-- 💡 &nbsp; I seek to constantly evolve by learning something new every day.
-- 💬 &nbsp; EI am willing to collaborate with the community.
-- 📫 &nbsp; Connect with me on  [LinkedIn](https://www.linkedin.com/in/danilo-belato-ba4507266)
-- 📫 &nbsp; How to reach me: [danilovbelato@gmail.com](mailto:danilovbelato@gmail.com)
+- 💼 You can connect with me on [LinkedIn](https://linkedin.com/in/danilo-belato-ba4507266) or reach me at danilovelbato@gmail.com.
 
-## 🔨 Languages I'm stud ying:
-
-<div style="display: inline_block"><br>
-  <img align="center" alt="Nilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/java/java.svg">
-  <img align="center" alt="Nilo-HTML" height="30" width="40" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/spring/spring.svg">
-  <img align="center" alt="Nilo-CSS" height="30" width="40" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/aws/aws.svg">
-  <img align="center" alt="Nilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/rahul-jha98/README_icons/4d06112f039d3d302017842f696129642a58f6a5/language_and_tools/square/docker/docker.svg" alt="Docker" height ="42px">
+## 🌱 Languages and Technologies I'm Studying:
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 ##
 
